@@ -1,0 +1,352 @@
+[{
+    "ID": 1,
+    "MEDICINE NAME": "Bio Walnut",
+    "USE": "in lectus pellentesque at nulla suspendisse potenti cras in purus eu magna vulputate luctus cum sociis natoque penatibus et",
+    "COMPANY NAME": "Hammes, McLaughlin and Bashirian",
+    "ADDRESS": "auctor gravida sem praesent id massa id nisl venenatis lacinia aenean",
+    "CONTACT": "9072922158"
+  }, {
+    "ID": 2,
+    "MEDICINE NAME": "BPO Creamy Wash Complete Pack",
+    "USE": "enim blandit mi in porttitor pede justo eu massa donec dapibus duis at velit",
+    "COMPANY NAME": "Grimes-Nolan",
+    "ADDRESS": "nisl nunc nisl duis bibendum felis sed interdum venenatis turpis enim blandit mi in porttitor pede justo eu massa",
+    "CONTACT": "6100733277"
+  }, {
+    "ID": 3,
+    "MEDICINE NAME": "Neutrogena MoistureShine SPF20",
+    "USE": "nulla sed accumsan felis ut at dolor quis odio consequat varius integer ac leo pellentesque ultrices mattis",
+    "COMPANY NAME": "Ryan, Langosh and Green",
+    "ADDRESS": "suscipit nulla elit ac nulla sed vel enim sit amet nunc viverra",
+    "CONTACT": "7644594442"
+  }, {
+    "ID": 4,
+    "MEDICINE NAME": "Curvularia inequalis",
+    "USE": "in sagittis dui vel nisl duis ac nibh fusce lacus purus aliquet at feugiat non pretium quis lectus",
+    "COMPANY NAME": "McDermott Group",
+    "ADDRESS": "nunc vestibulum ante ipsum primis in faucibus orci luctus et ultrices posuere cubilia curae mauris viverra diam vitae quam",
+    "CONTACT": "5877452037"
+  }, {
+    "ID": 5,
+    "MEDICINE NAME": "Paroxetine",
+    "USE": "integer non velit donec diam neque vestibulum eget vulputate ut ultrices vel augue vestibulum ante ipsum primis in faucibus",
+    "COMPANY NAME": "Koepp-Gutmann",
+    "ADDRESS": "at nibh in hac habitasse platea dictumst aliquam augue quam sollicitudin vitae consectetuer",
+    "CONTACT": "2094052095"
+  }, {
+    "ID": 6,
+    "MEDICINE NAME": "Acetaminophen and Codeine",
+    "USE": "amet diam in magna bibendum imperdiet nullam orci pede venenatis non sodales sed tincidunt eu felis fusce posuere felis sed",
+    "COMPANY NAME": "Farrell-Kemmer",
+    "ADDRESS": "felis sed interdum venenatis turpis enim blandit mi in porttitor pede",
+    "CONTACT": "6127252601"
+  }, {
+    "ID": 7,
+    "MEDICINE NAME": "Dial Tropical Escape Antibacterial Body Wash",
+    "USE": "augue aliquam erat volutpat in congue etiam justo etiam pretium iaculis justo in hac habitasse platea dictumst etiam faucibus cursus",
+    "COMPANY NAME": "Stracke, Spencer and Carroll",
+    "ADDRESS": "pede venenatis non sodales sed tincidunt eu felis fusce posuere felis sed lacus morbi sem",
+    "CONTACT": "8569498586"
+  }, {
+    "ID": 8,
+    "MEDICINE NAME": "Celexa",
+    "USE": "consequat metus sapien ut nunc vestibulum ante ipsum primis in faucibus orci luctus et ultrices posuere cubilia curae mauris",
+    "COMPANY NAME": "Marvin Group",
+    "ADDRESS": "dui vel sem sed sagittis nam congue risus semper porta volutpat quam pede lobortis ligula",
+    "CONTACT": "8846641272"
+  }, {
+    "ID": 9,
+    "MEDICINE NAME": "Mushroom",
+    "USE": "eleifend quam a odio in hac habitasse platea dictumst maecenas ut massa quis augue luctus tincidunt nulla mollis molestie",
+    "COMPANY NAME": "Abshire, Abshire and Bernier",
+    "ADDRESS": "pede morbi porttitor lorem id ligula suspendisse ornare consequat lectus in est risus auctor sed tristique in",
+    "CONTACT": "5636367651"
+  }, {
+    "ID": 10,
+    "MEDICINE NAME": "ALENDRONATE SODIUM",
+    "USE": "id sapien in sapien iaculis congue vivamus metus arcu adipiscing molestie hendrerit at",
+    "COMPANY NAME": "Buckridge, Ankunding and Torp",
+    "ADDRESS": "fringilla rhoncus mauris enim leo rhoncus sed vestibulum sit amet cursus id turpis integer aliquet massa id lobortis",
+    "CONTACT": "7461818813"
+  }, {
+    "ID": 11,
+    "MEDICINE NAME": "Fresh Umbrian Clay Freshface Foundation SPF 20 Cloudy Bay",
+    "USE": "quam sollicitudin vitae consectetuer eget rutrum at lorem integer tincidunt ante vel ipsum",
+    "COMPANY NAME": "Friesen, Medhurst and Maggio",
+    "ADDRESS": "cras mi pede malesuada in imperdiet et commodo vulputate justo in",
+    "CONTACT": "6572867269"
+  }, {
+    "ID": 12,
+    "MEDICINE NAME": "Flutamide",
+    "USE": "sapien varius ut blandit non interdum in ante vestibulum ante ipsum primis in faucibus orci luctus et ultrices posuere cubilia",
+    "COMPANY NAME": "Kohler-Wisoky",
+    "ADDRESS": "tincidunt in leo maecenas pulvinar lobortis est phasellus sit amet erat nulla tempus vivamus in felis",
+    "CONTACT": "0158579380"
+  }, {
+    "ID": 13,
+    "MEDICINE NAME": "Loxapine",
+    "USE": "ut ultrices vel augue vestibulum ante ipsum primis in faucibus orci luctus et ultrices posuere cubilia curae",
+    "COMPANY NAME": "Abshire, Schuppe and Renner",
+    "ADDRESS": "molestie hendrerit at vulputate vitae nisl aenean lectus pellentesque eget nunc donec quis orci",
+    "CONTACT": "9883514875"
+  }, {
+    "ID": 14,
+    "MEDICINE NAME": "Vaporizing Chest Rub",
+    "USE": "lorem integer tincidunt ante vel ipsum praesent blandit lacinia erat vestibulum sed magna at nunc commodo placerat",
+    "COMPANY NAME": "Upton LLC",
+    "ADDRESS": "elementum nullam varius nulla facilisi cras non velit nec nisi vulputate nonummy maecenas tincidunt lacus at velit vivamus",
+    "CONTACT": "9287969701"
+  }, {
+    "ID": 15,
+    "MEDICINE NAME": "Protex",
+    "USE": "justo sit amet sapien dignissim vestibulum vestibulum ante ipsum primis in",
+    "COMPANY NAME": "Hintz-Johns",
+    "ADDRESS": "felis donec semper sapien a libero nam dui proin leo odio porttitor",
+    "CONTACT": "3023173222"
+  }, {
+    "ID": 16,
+    "MEDICINE NAME": "erythromycin",
+    "USE": "viverra diam vitae quam suspendisse potenti nullam porttitor lacus at turpis donec",
+    "COMPANY NAME": "Boyer Group",
+    "ADDRESS": "potenti cras in purus eu magna vulputate luctus cum sociis natoque penatibus et magnis dis parturient",
+    "CONTACT": "4194408365"
+  }, {
+    "ID": 17,
+    "MEDICINE NAME": "Lubricant Eye",
+    "USE": "eget nunc donec quis orci eget orci vehicula condimentum curabitur in",
+    "COMPANY NAME": "Cartwright, Emard and Williamson",
+    "ADDRESS": "convallis eget eleifend luctus ultricies eu nibh quisque id justo sit amet sapien dignissim vestibulum vestibulum",
+    "CONTACT": "5774499944"
+  }, {
+    "ID": 18,
+    "MEDICINE NAME": "MILK OF MAGNESIA ORIGINAL",
+    "USE": "imperdiet nullam orci pede venenatis non sodales sed tincidunt eu felis fusce",
+    "COMPANY NAME": "Altenwerth Inc",
+    "ADDRESS": "ut tellus nulla ut erat id mauris vulputate elementum nullam varius nulla facilisi cras non velit nec nisi",
+    "CONTACT": "7825404580"
+  }, {
+    "ID": 19,
+    "MEDICINE NAME": "IMG",
+    "USE": "rhoncus aliquet pulvinar sed nisl nunc rhoncus dui vel sem sed sagittis nam congue",
+    "COMPANY NAME": "D'Amore LLC",
+    "ADDRESS": "ante vel ipsum praesent blandit lacinia erat vestibulum sed magna",
+    "CONTACT": "9588521130"
+  }, {
+    "ID": 20,
+    "MEDICINE NAME": "Vancomycin Hydrochloride",
+    "USE": "donec diam neque vestibulum eget vulputate ut ultrices vel augue vestibulum",
+    "COMPANY NAME": "Parker Group",
+    "ADDRESS": "at nulla suspendisse potenti cras in purus eu magna vulputate luctus cum sociis natoque penatibus et magnis",
+    "CONTACT": "7652086426"
+  }, {
+    "ID": 21,
+    "MEDICINE NAME": "Orasep",
+    "USE": "primis in faucibus orci luctus et ultrices posuere cubilia curae",
+    "COMPANY NAME": "Ziemann-VonRueden",
+    "ADDRESS": "ut massa quis augue luctus tincidunt nulla mollis molestie lorem quisque ut erat curabitur gravida nisi at nibh",
+    "CONTACT": "2568990791"
+  }, {
+    "ID": 22,
+    "MEDICINE NAME": "Glimepiride",
+    "USE": "quam a odio in hac habitasse platea dictumst maecenas ut massa quis augue luctus",
+    "COMPANY NAME": "Zieme and Sons",
+    "ADDRESS": "ante nulla justo aliquam quis turpis eget elit sodales scelerisque mauris sit amet eros suspendisse accumsan tortor quis turpis sed",
+    "CONTACT": "7070081847"
+  }, {
+    "ID": 23,
+    "MEDICINE NAME": "Pilocarpine Hydrochloride",
+    "USE": "sagittis dui vel nisl duis ac nibh fusce lacus purus aliquet at feugiat non pretium quis lectus suspendisse",
+    "COMPANY NAME": "Sanford, Robel and Wolff",
+    "ADDRESS": "donec quis orci eget orci vehicula condimentum curabitur in libero ut",
+    "CONTACT": "1806956683"
+  }, {
+    "ID": 24,
+    "MEDICINE NAME": "fluoxetine hydrochloride",
+    "USE": "ultrices phasellus id sapien in sapien iaculis congue vivamus metus",
+    "COMPANY NAME": "Johnston-O'Reilly",
+    "ADDRESS": "tristique est et tempus semper est quam pharetra magna ac consequat metus sapien ut nunc vestibulum ante ipsum primis",
+    "CONTACT": "4761192674"
+  }, {
+    "ID": 25,
+    "MEDICINE NAME": "Childrens",
+    "USE": "nisl duis ac nibh fusce lacus purus aliquet at feugiat non pretium quis lectus suspendisse potenti in eleifend quam",
+    "COMPANY NAME": "DuBuque LLC",
+    "ADDRESS": "habitasse platea dictumst etiam faucibus cursus urna ut tellus nulla ut erat id mauris vulputate elementum nullam varius",
+    "CONTACT": "9760826348"
+  }, {
+    "ID": 26,
+    "MEDICINE NAME": "Nifedipine",
+    "USE": "ante ipsum primis in faucibus orci luctus et ultrices posuere cubilia curae duis faucibus accumsan",
+    "COMPANY NAME": "Breitenberg, Smith and Trantow",
+    "ADDRESS": "dictumst maecenas ut massa quis augue luctus tincidunt nulla mollis molestie lorem quisque ut",
+    "CONTACT": "2656499399"
+  }, {
+    "ID": 27,
+    "MEDICINE NAME": "Sertraline Hydrochloride",
+    "USE": "etiam pretium iaculis justo in hac habitasse platea dictumst etiam faucibus cursus urna ut",
+    "COMPANY NAME": "Rath, Hilpert and Luettgen",
+    "ADDRESS": "justo in blandit ultrices enim lorem ipsum dolor sit amet consectetuer adipiscing elit",
+    "CONTACT": "1221571745"
+  }, {
+    "ID": 28,
+    "MEDICINE NAME": "body luxuries Strawberry Shortcake Antibacterial Hand Sanitizer",
+    "USE": "ipsum ac tellus semper interdum mauris ullamcorper purus sit amet nulla quisque arcu",
+    "COMPANY NAME": "Halvorson, Kub and Stehr",
+    "ADDRESS": "vel est donec odio justo sollicitudin ut suscipit a feugiat et eros vestibulum",
+    "CONTACT": "9611250207"
+  }, {
+    "ID": 29,
+    "MEDICINE NAME": "Sumatriptan Succinate",
+    "USE": "vulputate ut ultrices vel augue vestibulum ante ipsum primis in faucibus orci luctus et ultrices posuere",
+    "COMPANY NAME": "Leffler-Mertz",
+    "ADDRESS": "dui nec nisi volutpat eleifend donec ut dolor morbi vel",
+    "CONTACT": "3703091452"
+  }, {
+    "ID": 30,
+    "MEDICINE NAME": "Sterile Vancomycin Hydrochloride",
+    "USE": "posuere metus vitae ipsum aliquam non mauris morbi non lectus aliquam sit amet diam in",
+    "COMPANY NAME": "Schmidt Inc",
+    "ADDRESS": "rhoncus aliquet pulvinar sed nisl nunc rhoncus dui vel sem sed sagittis nam congue risus semper porta volutpat quam pede",
+    "CONTACT": "5083038404"
+  }, {
+    "ID": 31,
+    "MEDICINE NAME": "Visipaque",
+    "USE": "dolor sit amet consectetuer adipiscing elit proin risus praesent lectus vestibulum",
+    "COMPANY NAME": "Kuvalis and Sons",
+    "ADDRESS": "donec posuere metus vitae ipsum aliquam non mauris morbi non",
+    "CONTACT": "7652038898"
+  }, {
+    "ID": 32,
+    "MEDICINE NAME": "Renew Dimethicone Skin Protectant",
+    "USE": "eget vulputate ut ultrices vel augue vestibulum ante ipsum primis in",
+    "COMPANY NAME": "Will, Lubowitz and Keebler",
+    "ADDRESS": "ipsum primis in faucibus orci luctus et ultrices posuere cubilia curae nulla dapibus dolor vel",
+    "CONTACT": "8372798745"
+  }, {
+    "ID": 33,
+    "MEDICINE NAME": "Levoxyl",
+    "USE": "lorem ipsum dolor sit amet consectetuer adipiscing elit proin risus praesent lectus vestibulum quam sapien varius ut",
+    "COMPANY NAME": "Gutkowski, Welch and Beer",
+    "ADDRESS": "tempor convallis nulla neque libero convallis eget eleifend luctus ultricies eu",
+    "CONTACT": "6391775354"
+  }, {
+    "ID": 34,
+    "MEDICINE NAME": "Carvedilol",
+    "USE": "ut erat id mauris vulputate elementum nullam varius nulla facilisi cras",
+    "COMPANY NAME": "Flatley and Sons",
+    "ADDRESS": "quam turpis adipiscing lorem vitae mattis nibh ligula nec sem duis aliquam convallis nunc proin",
+    "CONTACT": "1365847845"
+  }, {
+    "ID": 35,
+    "MEDICINE NAME": "Diclofenac Sodium",
+    "USE": "dui nec nisi volutpat eleifend donec ut dolor morbi vel lectus in quam fringilla",
+    "COMPANY NAME": "Stokes and Sons",
+    "ADDRESS": "montes nascetur ridiculus mus etiam vel augue vestibulum rutrum rutrum neque aenean auctor gravida sem praesent id massa id",
+    "CONTACT": "6967880632"
+  }, {
+    "ID": 36,
+    "MEDICINE NAME": "Phenazopyridine Hydrochloride",
+    "USE": "tincidunt ante vel ipsum praesent blandit lacinia erat vestibulum sed magna at nunc commodo placerat praesent blandit nam",
+    "COMPANY NAME": "Bernhard-Hodkiewicz",
+    "ADDRESS": "massa donec dapibus duis at velit eu est congue elementum in hac habitasse platea dictumst morbi vestibulum velit id pretium",
+    "CONTACT": "4363811722"
+  }, {
+    "ID": 37,
+    "MEDICINE NAME": "Perrigo Citalopram",
+    "USE": "egestas metus aenean fermentum donec ut mauris eget massa tempor",
+    "COMPANY NAME": "Kovacek, Kessler and Padberg",
+    "ADDRESS": "ac consequat metus sapien ut nunc vestibulum ante ipsum primis in faucibus orci luctus",
+    "CONTACT": "2969474352"
+  }, {
+    "ID": 38,
+    "MEDICINE NAME": "Badger SPF 15 Sunscreen Lip Balm",
+    "USE": "cursus id turpis integer aliquet massa id lobortis convallis tortor risus dapibus augue vel accumsan",
+    "COMPANY NAME": "Kshlerin, Lakin and Sanford",
+    "ADDRESS": "vestibulum aliquet ultrices erat tortor sollicitudin mi sit amet lobortis sapien sapien non mi integer ac neque duis bibendum morbi",
+    "CONTACT": "5633848667"
+  }, {
+    "ID": 39,
+    "MEDICINE NAME": "Silver Sulfadiazine",
+    "USE": "tincidunt eget tempus vel pede morbi porttitor lorem id ligula suspendisse ornare consequat lectus in est risus auctor sed tristique",
+    "COMPANY NAME": "Herzog Inc",
+    "ADDRESS": "imperdiet et commodo vulputate justo in blandit ultrices enim lorem ipsum dolor sit amet consectetuer adipiscing elit proin interdum",
+    "CONTACT": "5468136112"
+  }, {
+    "ID": 40,
+    "MEDICINE NAME": "ZERIT",
+    "USE": "nam nulla integer pede justo lacinia eget tincidunt eget tempus vel pede morbi porttitor",
+    "COMPANY NAME": "Lowe Inc",
+    "ADDRESS": "nulla elit ac nulla sed vel enim sit amet nunc viverra dapibus nulla",
+    "CONTACT": "7368100789"
+  }, {
+    "ID": 41,
+    "MEDICINE NAME": "Personal Care Antibacterial Hand",
+    "USE": "quis libero nullam sit amet turpis elementum ligula vehicula consequat morbi a ipsum",
+    "COMPANY NAME": "Schultz-Harvey",
+    "ADDRESS": "accumsan tellus nisi eu orci mauris lacinia sapien quis libero nullam sit amet turpis elementum ligula vehicula",
+    "CONTACT": "1636200788"
+  }, {
+    "ID": 42,
+    "MEDICINE NAME": "Ssssting Stop",
+    "USE": "pede libero quis orci nullam molestie nibh in lectus pellentesque at",
+    "COMPANY NAME": "Wisoky, Ritchie and Rau",
+    "ADDRESS": "est lacinia nisi venenatis tristique fusce congue diam id ornare imperdiet sapien urna pretium",
+    "CONTACT": "7204265068"
+  }, {
+    "ID": 43,
+    "MEDICINE NAME": "SHISEIDO SHEER AND PERFECT COMPACT (REFILL)",
+    "USE": "nulla sed vel enim sit amet nunc viverra dapibus nulla suscipit",
+    "COMPANY NAME": "Welch-Leuschke",
+    "ADDRESS": "accumsan odio curabitur convallis duis consequat dui nec nisi volutpat eleifend donec ut dolor morbi",
+    "CONTACT": "5671245184"
+  }, {
+    "ID": 44,
+    "MEDICINE NAME": "Garnier Fructis Antidandruff",
+    "USE": "velit eu est congue elementum in hac habitasse platea dictumst morbi vestibulum velit id pretium iaculis diam",
+    "COMPANY NAME": "Ledner LLC",
+    "ADDRESS": "integer ac leo pellentesque ultrices mattis odio donec vitae nisi nam ultrices libero",
+    "CONTACT": "2044181401"
+  }, {
+    "ID": 45,
+    "MEDICINE NAME": "Cerebromax",
+    "USE": "vestibulum rutrum rutrum neque aenean auctor gravida sem praesent id massa id nisl",
+    "COMPANY NAME": "Abshire Inc",
+    "ADDRESS": "faucibus orci luctus et ultrices posuere cubilia curae duis faucibus",
+    "CONTACT": "2637095091"
+  }, {
+    "ID": 46,
+    "MEDICINE NAME": "Modafinil",
+    "USE": "nibh in lectus pellentesque at nulla suspendisse potenti cras in purus eu magna vulputate luctus cum sociis natoque",
+    "COMPANY NAME": "Koss-Auer",
+    "ADDRESS": "rutrum at lorem integer tincidunt ante vel ipsum praesent blandit lacinia erat vestibulum sed magna",
+    "CONTACT": "3446024409"
+  }, {
+    "ID": 47,
+    "MEDICINE NAME": "Equate Nicotine",
+    "USE": "suspendisse potenti cras in purus eu magna vulputate luctus cum sociis natoque penatibus et magnis dis parturient montes nascetur ridiculus",
+    "COMPANY NAME": "Grant, Hudson and Schiller",
+    "ADDRESS": "rhoncus aliquam lacus morbi quis tortor id nulla ultrices aliquet maecenas",
+    "CONTACT": "7832164689"
+  }, {
+    "ID": 48,
+    "MEDICINE NAME": "Pollens - Weeds and Garden Plants, Lambs Quarters Chenopodium album",
+    "USE": "ac consequat metus sapien ut nunc vestibulum ante ipsum primis in faucibus",
+    "COMPANY NAME": "Schneider, Koepp and Huel",
+    "ADDRESS": "erat volutpat in congue etiam justo etiam pretium iaculis justo in",
+    "CONTACT": "6959269539"
+  }, {
+    "ID": 49,
+    "MEDICINE NAME": "Viagra",
+    "USE": "quam fringilla rhoncus mauris enim leo rhoncus sed vestibulum sit amet cursus id turpis",
+    "COMPANY NAME": "Ernser Inc",
+    "ADDRESS": "nisl nunc rhoncus dui vel sem sed sagittis nam congue risus semper porta",
+    "CONTACT": "6234076920"
+  }, {
+    "ID": 50,
+    "MEDICINE NAME": "THE FIRST WHITENING SLEEPING MASK",
+    "USE": "odio in hac habitasse platea dictumst maecenas ut massa quis augue luctus tincidunt nulla mollis",
+    "COMPANY NAME": "MacGyver and Sons",
+    "ADDRESS": "sociis natoque penatibus et magnis dis parturient montes nascetur ridiculus mus vivamus vestibulum sagittis sapien cum sociis",
+    "CONTACT": "6189858775"
+  }]
+  
