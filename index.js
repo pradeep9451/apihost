@@ -8,7 +8,7 @@ app.use(cors());
 const apiData = require("./data.json");
 
 app.get("/", (req, res) =>{
-res.send("Hello I am live");
+res.send("Hello yadav I am live");
  });
 
  app.get("/service", (req,res)=>{
