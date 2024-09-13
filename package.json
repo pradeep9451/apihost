@@ -4,7 +4,8 @@
   "description": "host api",
   "main": "index.js",
   "scripts": {
-    "test": "pradeep"
+    "test": "pradeep",
+    "start": "node index.js"
   },
   "author": "yadav",
   "license": "ISC",
