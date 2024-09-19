@@ -24,11 +24,13 @@ mongoose.connect('mongodb://localhost:27017/medicineDB', {
 
 // Define the medicine schema
 const medicineSchema = new mongoose.Schema({
-  'ID': { type: String, required: true }, // Ensure ID is a string
+  'ID': { type: String,  }, // Ensure ID is a string
+  'SERIAL NUMABER': { type: String, required: true },
   'MEDICINE NAME': { type: String, required: true },
   'USE': String,
   'COMPANY NAME': { type: String, required: true },
-  'ADDRESS': String,
+  'MANUFACTURE DATE': String,
+  'EXPIRY DATE': String,
   'CONTACT': String,
 });
 
